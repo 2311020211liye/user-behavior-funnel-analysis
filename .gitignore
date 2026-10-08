@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 数据文件（不进 Git）
+data/*.csv
+data/*.parquet
